@@ -2107,6 +2107,7 @@ input, select, textarea {
 	#top {
 		padding: 10em 0 10em 0;
 		text-align: left;
+		height: 90vh;
 	}
 
 		#top .image {
